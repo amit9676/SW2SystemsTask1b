@@ -1,3 +1,6 @@
+החלק הרלוונטי:
+![grade100](https://user-images.githubusercontent.com/47754727/158181397-7a54301b-cb08-4201-a859-ed93f7a9c15c.png)
+
 <div dir="rtl" lang="he">
 
 # יצרני השטיחים
